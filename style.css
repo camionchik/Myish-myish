@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+nav a{
+    text-decoration: none;
+    color:fuchsia;
+    border-radius:10px;
+    border:2px dotted limegreen;
+    background-color: maroon;
+}
+header b {
+    font-size: 50px;
+    color:rgb(103, 120, 216);
+    background-color:rgb(255, 0, 255);
+    border:49px solid red;
+    border-radius: 50%;
+}
+h1 {
+    Color:red;
+    Font-family:cursive;
+    border-bottom:3px aquamarine dotted;
+}
+footer {
+    Background-color:blue;
+    color:white;
+    font-size: 10px;
+    border:10px dashed peru;
+}
+main p {
+    border:10px dashed salmon;
+    border-radius: 30%;
+    background-color: springgreen;
+    color:sandybrown;
+    padding:20px;
+}
+ p img {
+    border:5px dashed navy;
+    border-radius:50%;
+}
+p {
+    font-size:20px;
+}
